@@ -1,0 +1,2 @@
+# curriculoReactNative
+recomecando
